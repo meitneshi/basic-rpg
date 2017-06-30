@@ -1,0 +1,13 @@
+.canvas {
+    border: 1px solid black;
+}
+
+.canvas-map {
+    position: absolute;
+    z-index: 0;
+}
+
+.canvas-player {
+    position:relative;
+    z-index:1;
+}
